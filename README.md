@@ -1,7 +1,8 @@
-### Hi there 👋  I'm **Yi Té** 😄
+### Hi there 👋  I'm **Yi-Té** 😄
 
-- 🌱 current domain skillset: **Native Android Development & Automation** 🤖
-- 🔭 My 1 page resume pdf download: <a href="https://drive.google.com/file/d/0BxcpNUTezexcUjJSR0VCQTVtZHVsNEVEcS1mUU0tY0V0QlJF/view?usp=sharing&resourcekey=0-Xnb_4gXxOOfW2ErVeu06aw">📨</a> 
+- 🤓 I’m open-to-work, prefer W2 full-time & fully-remote in the USA (GC) 🙏
+- 🌱 current domain skillset: **Native Android Dev & Automation** 🤖
+- 🔭 My 1 page resume pdf download: <a href="https://drive.google.com/file/d/1-gR5LFsiJWm7HvOPYDomrtFzu_a__AiR/view?usp=sharing">📨</a> 
 - 📫 How to reach me: [📧](mailto:yitelu@gmail.com) 
 <!-- - 🤓 I’m open-to-work, prefer W2 full-time & fully-remote in the USA (GC) 🙏 -->
 
