@@ -2,9 +2,8 @@
 
 - 🤓 I’m open-to-work, prefer W2 full-time & fully-remote or onsite in San José CA USA
 - 🌱 current domain skillset: **SDET | Test Engineer | QA Engineer | Actively pursuing opportunities.** 🤖
-- 🔭 My 1 page resume pdf download: <a href="https://drive.google.com/file/d/1-8gtG3Rm9XblIbg93LMGH92RdeLQli6w/view?usp=sharing">📨</a> 
 - 📫 How to reach me: [📧](mailto:yitelu@gmail.com) 
-<!-- - 🤓 I’m open-to-work, prefer W2 full-time & fully-remote in the USA (GC)-->
+- 🤓 I’m open-to-work
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
