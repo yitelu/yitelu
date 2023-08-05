@@ -1,9 +1,8 @@
 ### Hi there 👋  I'm **Yité** 😄
 
-- 🤓 I’m open-to-work, prefer W2 full-time & fully-remote or onsite in San José CA USA
-- 🌱 current domain skillset: **SDET | Test Engineer | QA Engineer | Actively pursuing opportunities.** 🤖
+```- 🤓 I’m open-to-work, prefer W2 full-time & fully-remote or onsite in San José CA USA
+- 🌱 current domain skillset: ** Android Test Engineer ** 🤖
 - 📫 How to reach me: [📧](mailto:yitelu@gmail.com) 
-- 🤓 I’m open-to-work
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
