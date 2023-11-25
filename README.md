@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm **Yité** 😄
-- 🌱 current domain skillset: Android Test Operation Engineer 🤖
-<!--- 📫 How to reach me: [📧](mailto:yitelu@gmail.com) 
+<!---
+- 🌱 current domain skillset: Automation Engineer 🤖
+ 📫 How to reach me: [📧](mailto:yitelu@gmail.com) 
 - 🤓 I’m open-to-work, prefer W2 full-time & fully-remote or onsite in San José CA USA
 ````<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
